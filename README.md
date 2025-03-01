@@ -6,7 +6,7 @@ A simple Chrome extension that disables the like action when you double-click In
 ### Load as an Unpacked Extension
 1. Download or clone this repository.
 2. Open Chrome and go to `chrome://extensions/`.
-3. Enable **Developer Mode** (toggle in the top-right corner).
+3. Enable **Developer Mode**.
 4. Click **Load unpacked** and select the extension folder.
 5. The extension will now be active.
 
