@@ -5,10 +5,11 @@ A simple Chrome extension that disables the like action when you double-click In
 ## Installation
 ### Load as an Unpacked Extension
 1. Download or clone this repository.
-2. Open Chrome and go to `chrome://extensions/`.
-3. Enable **Developer Mode**.
-4. Click **Load unpacked** and select the extension folder.
-5. The extension will now be active.
+2. Unpack it.
+3. Open Chrome and go to `chrome://extensions/`.
+4. Enable **Developer Mode**.
+5. Click **Load unpacked** and select the extension folder.
+6. The extension will now be active.
 
 ## How It Works
 This extension listens for double-click events on Instagram posts and prevents them from triggering the like action.
