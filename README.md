@@ -1,5 +1,3 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V81FVVVI)
-
 # Instagram No Double Tap
 
 A simple Chrome extension that disables the like action when you double-click Instagram posts. This can help you avoid accidentally liking posts while scrolling through your feed.
